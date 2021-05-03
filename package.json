@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/VSinghania/vaccine-tracker/issues"
   },
-  "homepage": "https://github.com/VSinghania/vaccine-tracker#readme"
+  "homepage": "https://github.com/VSinghania/vaccine-tracker#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
 }
